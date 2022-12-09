@@ -1,21 +1,34 @@
 {
-  "name": "iods/module-social",
-  "description": "A social media integration and analytics platform for Magento 2.",
+  "name": "iods/module-hello",
+  "description": "A [very] opinionated guide for the right and wrong things in Magento 2.",
   "type": "magento2-module",
   "homepage": "http://ryemiller.io",
   "license": [
     "MIT"
   ],
   "require": {
-    "php": ">=7.3.0",
+    "php": ">=8",
 
-    "iods/module-core": "^1.0"
+    "iods/module-base": "*",
+    "iods/module-baseui": "*",
+    "iods/module-connect": "*",
+    "iods/module-sysconfig": "*",
+    "iods/module-bunyan": "*",
+    "iods/module-cream": "*",
+    "iods/module-frostbite": "*",
+    "iods/module-optimize": "*",
+    "iods/module-performance": "*",
+    "iods/module-customer": "*",
+    "iods/module-tulip": "*",
+    "iods/theme-acuity": "*",
+    "iods/module-lipstick": "*",
+    "iods/module-machete": "*"
   },
   "autoload": {
     "files": ["registration.php"],
     "psr-4": {
-      "Iods\\Social\\": ""
+      "Iods\\Hello\\": "src"
     }
   },
-  "version": "0.0.0"
+  "version": "000.1.0"
 }
