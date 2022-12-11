@@ -1,21 +1,18 @@
-<?php declare(strict_types=1);
+<?php
 /**
- * DISCLAIMER
- * Do not edit or add to this file if you wish to upgrade the modules
- * in the Darkstar Magento 2 Suite to newer versions in the future.
+ * A [very] opinionated guide for the right and wrong things in Magento 2
  *
- * @category  Iods
- * @package   Iods_Social
- * @author    Rye Miller
- * @version
- * @copyright Copyright (c) 2020, Rye Miller (http://ryemiller.io)
- * @license   MIT (https://en.wikipedia.org/wiki/MIT_License)
+ * @package   Iods\Hello
+ * @author    Rye Miller <rye@drkstr.dev>
+ * @copyright Copyright (c) 2022, Rye Miller (http://ryemiller.io)
+ * @license   See LICENSE file for license details.
  */
+declare(strict_types=1);
 
 use Magento\Framework\Component\ComponentRegistrar;
 
 ComponentRegistrar::register(
     ComponentRegistrar::MODULE,
-    'Iods_Social',
+    'Iods_Hello',
     __DIR__
 );

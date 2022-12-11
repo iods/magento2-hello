@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * A [very] opinionated guide for the right and wrong things in Magento 2
+ *
+ * @package   Iods\Hello
+ * @author    Rye Miller <rye@drkstr.dev>
+ * @copyright Copyright (c) 2022, Rye Miller (http://ryemiller.io)
+ * @license   See LICENSE file for license details.
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="urn:magento:framework:Module/etc/module.xsd">
+
+  <module name="Iods_Hello" setup_version="0.1.1" schema_version="0.1.1" data_version="0.1.1">
+
+</config>
