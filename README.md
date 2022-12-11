@@ -4,6 +4,9 @@
 
 A very opinionated guide for everything right and wrong in Magento 2.
 
+Working 
+
+
 Table of Contents
 -----------------
 
@@ -14,18 +17,30 @@ For Developers
  3. [Documentating Your Code](doc/02-DocumentationGuide.md)
  4. [Tools](doc/03-ToolGuide.md)
  5. [Git](doc/04-GitGuide.md)
+ 6. [Certification Questions](doc/DeveloperQuestions.md)
+ 7. [Resources](doc/06-Resources.md)
 
 [Acknowledgements](#Acknowledgements)
 
 [License](#License)
 
+
 Acknowledgements
 ----------------
-@TODO.
+
+Congruence, provided by the Dark Society
+ * [Website](https://github.com/thedarksociety/congruence-standard)
+ * [Github](https://github.com/thedarksociety)
+ 
+Smile Coding Standards
+ * [Website]
+ * [Github]
+
 
 License
 -------
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.svg?v=103)](https://opensource.org/licenses/mit-license.php)
+
 
 Copyright
 ---------
