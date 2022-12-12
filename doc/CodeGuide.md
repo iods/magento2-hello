@@ -44,7 +44,7 @@ That said, opinions change, rules are meant to be broken.
 
 ### General Considerations
 
-My styles are specific to publishing years of work and learning more.
+My styles are specific to publishing years of random work and learning more.
 
 PLEASE GO USE SOMEONE ELSES.
 
@@ -59,6 +59,8 @@ and it probably has been repeated, incorrect, or done before.
 ## Code Styles and Principles
 
 ### [1.1](#code-styles-and-principles--principles) Principles
+
+Write your code as if someone else is going to read it to understand it.
 
 Codification of the styles and processes I have inherited over the years.
 
@@ -81,7 +83,19 @@ Don't Re-Invent the Wheel
 
 ### [1.2](#code-styles-and-principles--styles) Styles
 
-Write your code as if someone else is going to read it to understand it.
+#### [1.2.1](#styles--document-formatting) Document Formatting
+
+PHP code MUST always begin with the long form opening tag and include an end tag.
+
+The exception to this is when a file contains only PHP.
+
+```php
+<?php
+    // right way
+?>
+
+<?= // wrong way ?>
+```
 
 
 ## Documentation Styles and Standards
