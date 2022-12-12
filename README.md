@@ -4,6 +4,21 @@
 
 A [very] opinionated guide for everything right and wrong with Magento 2.
 
+> Consistency through standards, harmony through self-actualization.
+
+
+Rationale
+---------
+
+Understanding and implementing a development methodology across a project in 
+software is two-fold as a lead. You have workflows and standards specific to a 
+codebase and then those to a project. Although their dependencies on one another 
+are mutually exclusive, their patterns couldn't be more different.
+
+After accepting it and stopping fighting it, I chose to move my energy here.
+
+Enjoy.
+
 
 Table of Contents
 -----------------
@@ -42,4 +57,4 @@ License
 
 Copyright
 ---------
-(c) 2022 Rye Miller
+(c) 2022, Rye Miller
