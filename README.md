@@ -1,4 +1,3 @@
-
 <h1 align="center">Hello, Developer for Magento 2</h1>
 <br />
 
@@ -27,7 +26,7 @@ Table of Contents
 
  1. [Developer Guide](doc/DeveloperGuide.md)
  2. [Module Writing Guide](doc/ModuleGuide.md)
- 3. [Documentating and Styling Code](doc/CodeGuide.md)
+ 3. [Documentation and Code Standards](doc/CodeGuide.md)
  4. [Tools](doc/ToolGuide.md)
  5. [Git](doc/04-GitGuide.md)
  6. [Tests](doc/Testing.md)

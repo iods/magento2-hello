@@ -1,6 +1,30 @@
-# M2 DEV LINKS
+<h1 align="center">Hello, Developer - Resources</h1>
+<br />
+<div align="center">
+
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/iods/magento2-hello)
+
+</div>
 
 Needing a place to keep a list of all the tools/references used during Magento development.
+
+## Workflows
+
+| Workflow Name                                                 | Description                                                            |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Integration Test](./.github/workflows/integration-README.md) | A Github Workflow that runs the Integration Tests of a Magento Package |
+
+## Actions
+
+| Action Name                                            | Description                                                                               |
+| ------------------------------------------------------ | ----------------------------------------------------------------------------------------- |
+| [Unit Test](./unit-test/README.md)                     | A Github Action that runs the Unit Tests a Magento Package                                |
+| [Fix Magento Install](./fix-magento-install/README.md) | A Github Action that fixes Magento before `composer install`                              |
+| [Cache Magento](./cache-magento/README.md)             | A Github Action that creates a composer cache for a Magento extension or store.           |
+| [Setup Magento](./setup-magento/README.md)             | A Github Action that sets up Magento before `composer install` for an extension or store. |
+| [Get Magento Version](./get-magento-version/README.md) | A Github Action that computes the installed Magento version.                              |
+| [Installation Test](./installation-test/README.md)     | A Github Action that tests the installability of a Magento Package                        |
+| [Supported Version](./supported-version/README.md)     | A Github Action that computes the currently supported Github Actions Matrix for Magento 2 |
 
 ---
 
@@ -14,11 +38,18 @@ Needing a place to keep a list of all the tools/references used during Magento d
 * https://github.com/magento/magento2-functional-testing-framework Testing
 * https://github.com/magento-engcom/import-export-improvements Import/Export++
 
+| Workflow Name                                                 | Description                                                            |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Integration Test](./.github/workflows/integration-README.md) | A Github Workflow that runs the Integration Tests of a Magento Package |
+
 ## MAGENTO 2 CERTIFICATION
 * https://swiftotter.com/technical/magento-2-certified-developer-study-guide Developer Study Guide
 * https://swiftotter.com/technical/magento-2-certified-developer-practice-test Developer Practice Test
 * https://swiftotter.com/technical/magento-2-certified-solution-specialist-exam-study-guide Solution Specialist Exam Study Guide
 * https://swiftotter.com/technical/magento-2-certified-solution-specialist-practice-test#take-test Solution Specialist Practice Test
+| Workflow Name                                                 | Description                                                            |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Integration Test](./.github/workflows/integration-README.md) | A Github Workflow that runs the Integration Tests of a Magento Package |
 
 ## SERVICES / SERVER / SETUP
 * https://github.com/magenx/Magento-nginx-config Nginx config for Magento2
@@ -32,6 +63,9 @@ Needing a place to keep a list of all the tools/references used during Magento d
 * https://github.com/magemojo/m2-ce-splitdb split read / write database project.
 * https://github.com/webgriffe/module-config-override overrides default configuration store in version control
 * https://github.com/1ma/RedisSessionHandler Redis session locking & session fixation protection
+| Workflow Name                                                 | Description                                                            |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Integration Test](./.github/workflows/integration-README.md) | A Github Workflow that runs the Integration Tests of a Magento Package |
 
 ## DASHBOARDS
 * https://github.com/magento-hackathon/DevDashboard2 Developer Dashboard
@@ -40,6 +74,9 @@ Needing a place to keep a list of all the tools/references used during Magento d
 * https://github.com/ITLinuxCL/Varnish-Agent-Dashboard Varnish Dashboard
 * https://github.com/AydinHassan/m2-opcache-monitor OPCache Monitor
 * https://github.com/atarallo/TECMINT_MONITOR Monitor Network, Disk, Load Avg & RAM
+| Workflow Name                                                 | Description                                                            |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Integration Test](./.github/workflows/integration-README.md) | A Github Workflow that runs the Integration Tests of a Magento Package |
 
 ## CLIENT/ADMIN TOOLS
 * https://github.com/danslo/ProductMaintenance Manage products with CSV
@@ -430,7 +467,9 @@ WebShops
 
 ---
 
-
+| Workflow Name                                                 | Description                                                            |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Integration Test](./.github/workflows/integration-README.md) | A Github Workflow that runs the Integration Tests of a Magento Package |
 
 ### GIST NOTES/SCRIPTS
 
@@ -499,5 +538,9 @@ false |   T   |   F   |   F   |   T   |   T   |
     1 |   T   |   F   |   F   |   F   |   F   |
    \0 |   T   |   F   |   F   |   F   |   F   |
 ```
+
+| Workflow Name                                                 | Description                                                            |
+| ------------------------------------------------------------- | ---------------------------------------------------------------------- |
+| [Integration Test](./.github/workflows/integration-README.md) | A Github Workflow that runs the Integration Tests of a Magento Package |
 
 ---
