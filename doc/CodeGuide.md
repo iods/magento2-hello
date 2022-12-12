@@ -13,15 +13,15 @@ under-appreciated. It saves time, can save money, and also allows to focus on
 the more subjective topics of coding. The ones worth spending time on.
 
 You can support a project with the wrong developer using the right standards, but 
-you can't support the right developers using the wrong standards. 
-
-Meaning as long as you have the right guidelines, the rest will take care of itself.
+you can't support the right developers using the wrong standards. Meaning as 
+long as you have the right guidelines, the rest will take care of itself.
 
 
 Table of Contents
 -----------------
 
- 1. [Code Style and Principles](#code-style-and-principles)
+ 1. [Introduction](#introduction)
+ 2. [Code Style and Principles](#code-style-and-principles)
  2. [Documentation Styles and Standards](#documentation-styles-and-standards)
  3. [Benchmarking and Performance Standards](#benchmarking-and-performance-standards)
  4. [Testing and Quality Assurance](#testing-and-quality-assurance)
