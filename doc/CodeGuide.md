@@ -48,15 +48,18 @@ My styles are specific to publishing years of random work and learning more.
 
 PLEASE GO USE SOMEONE ELSES.
 
-
-### Preference
-
-My interpretation or modification has started with Magento, PSR-1, PSR-2, and 
-Google. If it is not in those four guides, then I did not pay attention to it 
-and it probably has been repeated, incorrect, or done before.
+My interpretation or modification is influenced by Magento, [PSR-1](https://www.php-fig.org/psr/psr-1/), 
+[PSR-2](https://www.php-fig.org/psr/psr-2/), and Google. If it is not in those four guides, then I did not pay 
+attention to it and probably don't care, everything else is community driven.
 
 
 ## Code Styles and Principles
+
+### Overview
+
+1. Code SHOULD follow a "coding style guide" PSR [PSR-12](https://www.php-fig.org/psr/psr-12/)
+2. 
+
 
 ### [1.1](#code-styles-and-principles--principles) Principles
 
@@ -85,7 +88,7 @@ Don't Re-Invent the Wheel
 
 #### [1.2.1](#styles--document-formatting) Document Formatting
 
-PHP code MUST always begin with the long form opening tag and include an end tag.
+PHP code MUST use only the long opening tag and SHOULD include an end tag.
 
 The exception to this is when a file contains only PHP.
 

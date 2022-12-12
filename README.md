@@ -3,8 +3,6 @@
 
 A [very] opinionated guide for everything right and wrong with Magento 2.
 
-Rules are meant to be broken.
-
 
 Rationale
 ---------
