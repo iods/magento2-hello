@@ -1,15 +1,16 @@
 <h1 align="center">Hello, Developer - Code Guide</h1>
 <br />
 
+Rules are meant to be broken. Styles are meant to be consistent.
 
 
 Rationale
 ---------
 
 A source of frustration for most developers, at least for me, has always been 
-the importance of good coding practices. They are commonly under-appreciated. It
-saves time, can save money, and also allows to focus on the more subjective 
-topics of coding. The ones worth spending time.
+the realization and application of good coding practices. They are commonly 
+under-appreciated. It saves time, can save money, and also allows to focus on 
+the more subjective topics of coding. The ones worth spending time on.
 
 You can have the wrong developer using the right standards, but you can't have the 
 right developer using the wrong standards. Meaning as long as you have the right
